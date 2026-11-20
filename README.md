@@ -1,2 +1,0 @@
-# ai-programming-test
-heyheyhey
